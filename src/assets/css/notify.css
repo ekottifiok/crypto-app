@@ -1,0 +1,38 @@
+body {
+    font-family: 'Delius', cursive;
+    background-color: #CFB9B9;
+    position: relative;
+  }
+
+#root {
+    position: absolute;
+    padding-left: 50px;
+}
+
+/* #closeBtn {
+    width: 100px;
+    height: 35px;
+    border: none;
+    color: black;
+    background-color: #F85050;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 27px;
+    font-family: 'Delius', cursive;
+    border-radius: 8px;
+}
+
+#updatebtn {
+    width: 100px;
+    height: 35px;
+    border: none;
+    color: black;
+    background-color: #40ED3D;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 27px;
+    font-family: 'Delius', cursive;
+    border-radius: 8px;
+} */

@@ -1,0 +1,21 @@
+body {
+  font-family: 'Delius', cursive;
+  background-color: #866F6F;
+  position: relative;
+}
+
+#root {
+  position: absolute;
+  padding-left: 50px;
+}
+
+#current_notify {
+  font-size: 40px;
+  color: white;
+}
+
+#adjustBtn {
+  background-color: white; /* Green */
+  color: black;
+  margin-left: 150px;
+}
